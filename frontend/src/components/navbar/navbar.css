@@ -1,4 +1,4 @@
-/* src/HomeComponent/HomePage.css */
+
 
 .navbar {
     display: flex;
@@ -42,17 +42,11 @@
     padding-right: 24px;
   }
   
-  /* .navbar-center .home-button:hover,
-  .navbar-center .special-home:hover {
-    text-decoration: none; 
-    background-color: white;
-    color: #333; 
-    border-radius: 5px;
-  } */
+ 
   
   .navbar-center .home-button svg,
   .navbar-center .special-home svg {
-    margin-right: 15px; /* Space between icon and text */
+    margin-right: 15px; 
   }
   
   .navbar-profile {
